@@ -16,4 +16,6 @@ Requirements
 * paperclip
 * gd2
 
+See also: [http://github.com/thoughtbot/paperclip](http://github.com/thoughtbot/paperclip)
+
 Copyright (c) 2009 jugyo, released under the MIT license
