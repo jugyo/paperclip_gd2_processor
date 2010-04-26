@@ -1,0 +1,1 @@
+require 'paperclip_gd2_processor'
